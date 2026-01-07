@@ -12,8 +12,29 @@
 
 ```java
 //Scanner sc = new Scanner(System.in);
-Scanner sc = new Scanner("7\n6\n2 1 3 2 4 3");
+//Scanner sc = new Scanner("7\n6\n2 1 3 2 4 3");
 ```
+5. 选择方法
 
+```java
+/**
+ * public static int a(){
+ *     
+ * }
+ * 
+ * public static int a1(){
+ *     
+ * }
+ * 
+ * public static void main(String[] args){
+ *     //int result = a();
+ *     //int result = a1();
+ *     
+ *     //System.out.println(result);
+ *     //System.out.println(result1);
+ * }
+ * 
+ */
+```
 
 
